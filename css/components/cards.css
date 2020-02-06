@@ -1,0 +1,19 @@
+.cards{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 30px;
+}
+
+.cards img{
+  height: 100px;
+}
+
+.card{
+  border:solid;
+  border-color: #e0dede;
+  border-radius: 3px;
+  padding: 16px;
+  text-align: center;
+}
+
